@@ -232,13 +232,13 @@ img {
   padding-bottom: 1rem;
 }
 
-.home__social-icon {
-  margin-bottom: 2rem;
+.asm a {
+  margin: 0 1rem;
   font-size: 1.33rem;
-  cursor: pointer;
+  color: #fff;
 }
 
-.home__social-icon:hover {
+.asm a:hover {
   color: var(--first-color);
 }
 

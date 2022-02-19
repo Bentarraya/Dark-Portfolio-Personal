@@ -30,5 +30,5 @@ const showMenu = (toggleId, navId) => {
   gsap.from(".nav__item", { opacity: 0, duration: 3, delay: 3.2, y: 25, ease: "expo.out", stagger: 0.2 });
   
   // SOCIAL
-  gsap.from(".home__social-icon", { opacity: 0, duration: 3, delay: 4, y: 25, ease: "expo.out", stagger: 0.2 });
+  gsap.from(".asm", { opacity: 0, duration: 3, delay: 4, y: 25, ease: "expo.out", stagger: 0.2 });
   
